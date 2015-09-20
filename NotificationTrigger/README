@@ -1,0 +1,3 @@
+java -classpath NotificationTrigger-0.0.1-SNAPSHOT-jar-with-dependencies.jar com.notification.NotificationSystem -c  /home/kanagaraj/Desktop/NotificationDispatch/NotificationTrigger-0.0.1-SNAPSHOT/config/config.properties -l /home/kanagaraj/Desktop/NotificationDispatch/NotificationTrigger-0.0.1-SNAPSHOT/config/log4j.properties
+ 
+ 						
